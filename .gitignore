@@ -46,10 +46,10 @@ next-env.d.ts
 *.swp
 *.swo
 *~
-
 # OS
 Thumbs.db
 
 # turbo
 .turbo
+
 
