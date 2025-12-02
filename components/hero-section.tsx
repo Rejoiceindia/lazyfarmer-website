@@ -6,8 +6,8 @@ export function HeroSection() {
       </p>
 
       <h1 className="mx-auto max-w-4xl text-balance font-serif text-3xl font-medium leading-tight tracking-tight text-foreground md:text-5xl lg:text-6xl">
-        The <span className="italic text-primary">laziest bunch</span> delivering the most{" "}
-        <span className="italic text-primary">productive farmland</span> ventures in Bharat
+        Our community motto: Our promise is to be the <span className="italic text-primary">laziest bunch</span> delivering the most{" "}
+        <span className="italic text-primary">productive farmland</span> ventures in Bharat and beyond!
       </h1>
 
       <div className="mx-auto mt-8 h-px w-16 bg-border md:mt-12" />
